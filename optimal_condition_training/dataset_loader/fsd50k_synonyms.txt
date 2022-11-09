@@ -1,0 +1,200 @@
+/m/07q2z82,Accelerating_and_revving_and_vroom,Accelerating,revving,vroom
+/m/0mkg,Accordion,Accordion
+/m/042v_gx,Acoustic_guitar,Acoustic guitar
+/m/0k5j,Aircraft,Aircraft
+/m/07pp_mv,Alarm,Alarm
+/m/0jbk,Animal,Animal
+/m/028ght,Applause,Applause
+/m/05tny_,Bark,Bark
+/m/0bm02,Bass_drum,Bass drum
+/m/018vs,Bass_guitar,Bass guitar
+/m/03dnzn,Bathtub_(filling_or_washing),Bathtub
+/m/0395lw,Bell,Bell
+/m/0199g,Bicycle,Bicycle
+/m/0gy1t2s,Bicycle_bell,Bicycle bell
+/m/015p6,Bird,Bird
+/m/020bb7,Bird_vocalization_and_bird_call_and_bird_song,Bird vocalization,bird call,bird song
+/m/019jd,Boat_and_Water_vehicle,Boat,Water vehicle
+/m/0dv3j,Boiling,Boiling
+/m/07qqyl4,Boom,Boom
+/m/0l14_3,Bowed_string_instrument,Bowed string instrument
+/m/01kcd,Brass_instrument,Brass instrument
+/m/0lyf6,Breathing,Breathing
+/m/03q5_w,Burping_and_eructation,Burping,eructation
+/m/01bjv,Bus,Bus
+/m/07pjwq1,Buzz,Buzz
+/m/0dv5r,Camera,Camera
+/m/0k4j,Car,Car
+/t/dd00134,Car_passing_by,Car passing by
+/m/01yrx,Cat,Cat
+/m/07rkbfh,Chatter,Chatter
+/m/053hz1,Cheering,Cheering
+/m/03cczk,Chewing_and_mastication,Chewing,mastication
+/m/09b5t,Chicken_and_rooster,Chicken,rooster
+/m/0ytgt,Child_speech_and_kid_speaking,Child speech,kid speaking
+/m/0f8s22,Chime,Chime
+/m/07q7njn,Chink_and_clink,Chink,clink
+/m/07pggtn,Chirp_and_tweet,Chirp,tweet
+/m/07rgt08,Chuckle_and_chortle,Chuckle,chortle
+/m/03w41f,Church_bell,Church bell
+/m/0l15bq,Clapping,Clapping
+/m/01x3z,Clock,Clock
+/m/0242l,Coin_(dropping),Coin
+/m/01m2v,Computer_keyboard,Computer keyboard
+/m/01h8n0,Conversation,Conversation
+/m/01b_21,Cough,Cough
+/m/0239kh,Cowbell,Cowbell
+/m/07qs1cx,Crack,Crack
+/m/07pzfmf,Crackle,Crackle
+/m/0bm0k,Crash_cymbal,Crash cymbal
+/m/09xqv,Cricket,Cricket
+/m/04s8yn,Crow,Crow
+/m/03qtwd,Crowd,Crowd
+/t/dd00112,Crumpling_and_crinkling,Crumpling,crinkling
+/m/07plct2,Crushing,Crushing
+/m/0463cq4,Crying_and_sobbing,Crying,sobbing
+/m/0642b4,Cupboard_open_or_close,Cupboard open or close
+/m/023pjk,Cutlery_and_silverware,Cutlery,silverware
+/m/01qbl,Cymbal,Cymbal
+/m/04brg2,Dishes_and_pots_and_pans,Dishes,pots,pans
+/m/0bt9lr,Dog,Dog
+/m/068hy,Domestic_animals_and_pets,Domestic animals,pets
+/t/dd00071,Domestic_sounds_and_home_sounds,Domestic sounds,home sounds
+/m/02dgv,Door,Door
+/m/03wwcy,Doorbell,Doorbell
+/m/0fqfqc,Drawer_open_or_close,Drawer open or close
+/m/01d380,Drill,Drill
+/m/07r5v4s,Drip,Drip
+/m/026t6,Drum,Drum
+/m/02hnl,Drum_kit,Drum kit
+/m/02sgy,Electric_guitar,Electric guitar
+/m/02mk9,Engine,Engine
+/t/dd00130,Engine_starting,Engine starting
+/m/014zdl,Explosion,Explosion
+/m/02_nn,Fart,Fart
+/t/dd00004,Female_singing,Female singing
+/m/02zsn,Female_speech_and_woman_speaking,Female speech,woman speaking
+/m/07p7b8y,Fill_(with_liquid),Fill
+/m/025_jnm,Finger_snapping,Finger snapping
+/m/02_41,Fire,Fire
+/m/0g6b5,Fireworks,Fireworks
+/m/0cmf2,Fixed-wing_aircraft_and_airplane,Fixed-wing aircraft,airplane
+/m/025rv6n,Fowl,Fowl
+/m/09ld4,Frog,Frog
+/m/0dxrf,Frying_(food),Frying
+/m/07s0dtb,Gasp,Gasp
+/m/07r660_,Giggle,Giggle
+/m/039jq,Glass,Glass
+/m/0dwtp,Glockenspiel,Glockenspiel
+/m/0mbct,Gong,Gong
+/m/0ghcn6,Growling,Growling
+/m/0342h,Guitar,Guitar
+/m/01dwxx,Gull_and_seagull,Gull,seagull
+/m/032s66,Gunshot_and_gunfire,Gunshot,gunfire
+/m/07swgks,Gurgling,Gurgling
+/m/03l9g,Hammer,Hammer
+/m/0k65p,Hands,Hands
+/m/03qjg,Harmonica,Harmonica
+/m/03m5k,Harp,Harp
+/m/03qtq,Hi-hat,Hi-hat
+/m/07rjwbb,Hiss,Hiss
+/t/dd00012,Human_group_actions,Human group actions
+/m/09l8g,Human_voice,Human voice
+/m/07pb8fc,Idling,Idling
+/m/03vt0,Insect,Insect
+/m/05148p4,Keyboard_(musical),Keyboard
+/m/03v3yw,Keys_jangling,Keys jangling
+/m/07r4wb8,Knock,Knock
+/m/01j3sz,Laughter,Laughter
+/m/04k94,Liquid,Liquid
+/m/0ch8v,Livestock_and_farm_animals_and_working_animals,Livestock,farm animals,working animals
+/t/dd00003,Male_singing,Male singing
+/m/05zppz,Male_speech_and_man_speaking,Male speech,man speaking
+/m/0j45pbj,Mallet_percussion,Mallet percussion
+/m/0dwsp,Marimba_and_xylophone,Marimba,xylophone
+/m/02x984l,Mechanical_fan,Mechanical fan
+/t/dd00077,Mechanisms,Mechanisms
+/m/07qrkrw,Meow,Meow
+/m/0fx9l,Microwave_oven,Microwave oven
+/m/012f08,Motor_vehicle_(road),Motor vehicle
+/m/04_sv,Motorcycle,Motorcycle
+/m/04rlf,Music,Music
+/m/04szw,Musical_instrument,Musical instrument
+/m/05kq4,Ocean,Ocean
+/m/013y1f,Organ,Organ
+/m/05mxj0q,Packing_tape_and_duct_tape,Packing tape,duct tape
+/m/0l14md,Percussion,Percussion
+/m/05r5c,Piano,Piano
+/m/0fx80y,Plucked_string_instrument,Plucked string instrument
+/m/07prgkl,Pour,Pour
+/m/0_ksk,Power_tool,Power tool
+/m/01m4t,Printer,Printer
+/m/02yds9,Purr,Purr
+/m/0ltv,Race_car_and_auto_racing,Race car,auto racing
+/m/06d_3,Rail_transport,Rail transport
+/m/06mb1,Rain,Rain
+/m/07r10fb,Raindrop,Raindrop
+/m/02bm9n,Ratchet_and_pawl,Ratchet,pawl
+/m/07qn4z3,Rattle,Rattle
+/m/05r5wn,Rattle_(instrument),Rattle
+/m/09hlz4,Respiratory_sounds,Respiratory sounds
+/m/01hnzm,Ringtone,Ringtone
+/m/06h7j,Run,Run
+/m/01b82r,Sawing,Sawing
+/m/01lsmm,Scissors,Scissors
+/m/01hgjl,Scratching_(performance_technique),Scratching
+/m/03qc9zr,Screaming,Screaming
+/m/07q8k13,Screech,Screech
+/m/07rn7sz,Shatter,Shatter
+/m/07p6fty,Shout,Shout
+/m/07plz5l,Sigh,Sigh
+/m/015lz1,Singing,Singing
+/m/0130jx,Sink_(filling_or_washing),Sink
+/m/03kmc9,Siren,Siren
+/m/06_fw,Skateboard,Skateboard
+/m/07rjzl8,Slam,Slam
+/m/02y_763,Sliding_door,Sliding door
+/m/06rvn,Snare_drum,Snare drum
+/m/01hsr_,Sneeze,Sneeze
+/m/09x0r,Speech,Speech
+/m/0brhx,Speech_synthesizer,Speech synthesizer
+/m/07rrlb6,Splash_and_splatter,Splash,splatter
+/m/07q6cd_,Squeak,Squeak
+/m/0j6m2,Stream,Stream
+/m/07s0s5r,Strum,Strum
+/m/0195fx,Subway_and_metro_and_underground,Subway,metro,underground
+/m/01p970,Tabla,Tabla
+/m/07brj,Tambourine,Tambourine
+/m/07qcpgn,Tap,Tap
+/m/07qcx4z,Tearing,Tearing
+/m/07cx4,Telephone,Telephone
+/m/07qnq_y,Thump_and_thud,Thump,thud
+/m/0ngt1,Thunder,Thunder
+/m/0jb2l,Thunderstorm,Thunderstorm
+/m/07qjznt,Tick,Tick
+/m/07qjznl,Tick-tock,Tick-tock
+/m/01jt3m,Toilet_flush,Toilet flush
+/m/07k1x,Tools,Tools
+/m/0btp2,Traffic_noise_and_roadway_noise,Traffic noise,roadway noise
+/m/07jdr,Train,Train
+/m/07pqc89,Trickle_and_dribble,Trickle,dribble
+/m/07r04,Truck,Truck
+/m/07gql,Trumpet,Trumpet
+/m/0c2wf,Typewriter,Typewriter
+/m/0316dw,Typing,Typing
+/m/07yv9,Vehicle,Vehicle
+/m/0912c9,Vehicle_horn_and_car_horn_and_honking,Vehicle horn,car horn,honking
+/m/07pbtc8,Walk_and_footsteps,Walk,footsteps
+/m/0838f,Water,Water
+/m/02jz0l,Water_tap_and_faucet,Water tap,faucet
+/m/034srq,Waves_and_surf,Waves,surf
+/m/02rtxlg,Whispering,Whispering
+/m/07rqsjt,Whoosh_and_swoosh_and_swish,Whoosh,swoosh,swish
+/m/01280g,Wild_animals,Wild animals
+/m/03m9d0z,Wind,Wind
+/m/026fgl,Wind_chime,Wind chime
+/m/085jw,Wind_instrument_and_woodwind_instrument,Wind instrument,woodwind instrument
+/m/083vt,Wood,Wood
+/m/081rb,Writing,Writing
+/m/07sr1lc,Yell,Yell
+/m/01s0vc,Zipper_(clothing),Zipper
