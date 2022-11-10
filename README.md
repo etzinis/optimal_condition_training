@@ -2,6 +2,8 @@
 
 Code and data recipes for the paper: Optimal Condition Training for Target Source Separation by Efthymios Tzinis, Gordon Wichern, Paris Smaragdis and Jonathan Le Roux 
 
+We will soon also release the conditional version with embedding refinement for the conditional Sudo rm -rf model [[3]](#3) because the code is associated with MERL licences. The new repo will be linked here and will be fully functional.
+
 TLDR; The main contribution of this paper is to introduce a novel way of training, namely, optimal condition training (OCT) for single-channel target source separation, based on greedy parameter updates using the highest performing condition among equivalent conditions associated with a given target source. OCT improves upon single-conditioned models and oracle permutation invariant training. We also propose a variation of OCT with condition refinement, in which an initial conditional vector is adapted to the given mixture and transformed to a more amenable representation for target source extraction.
 
 ## Table of contents
@@ -39,8 +41,6 @@ valid_conditions = ["harmonicity", "energy", "source_order",
                     "one_hot_class", "one_hot_super_class", "multi_hot_class"]
 queries_priors = [0.4] + [0.3] + [0.3] + [0.] * 3
 ```
-
-We will try to soon also release the conditional version with embedding refinement for the conditional Sudo rm -rf model [[3]](#3) because the code is associated with MERL licences.
 
 The dataset uses online mixing. You can test the generator as shown next:
 
